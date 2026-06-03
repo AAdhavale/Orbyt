@@ -19,6 +19,7 @@
     "mongoose": "^9.6.3",
     "node-cron": "^4.2.1",
     "nodemailer": "^8.0.9",
+    "openai": "^6.39.1",
     "pdfkit": "^0.18.0",
     "qrcode": "^1.5.4",
     "razorpay": "^2.9.6",
